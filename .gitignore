@@ -1,0 +1,6 @@
+node_modules
+assets
+bundle.js
+*.map
+.*.swp
+.DS_Store

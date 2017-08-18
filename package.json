@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "tsify": "^3.0.1"
+  }
+}

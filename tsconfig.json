@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outFile": "bundle.js",
+        "allowJs": true,
+        "target": "es2017",
+        "sourceMap": true,
+        "lib": ["dom", "es6", "dom.iterable", "scripthost", "es2016"],
+    },
+    "include": [
+        "client.ts"
+    ],
+    "exclude": []
+}
